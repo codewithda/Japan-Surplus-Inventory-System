@@ -1,0 +1,76 @@
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.exe
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.deps.json
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.runtimeconfig.json
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.pdb
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.csproj.AssemblyReference.cache
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Form1.resources
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.View.resources
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.csproj.GenerateResource.cache
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.AssemblyInfoInputs.cache
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.AssemblyInfo.cs
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.csproj.CoreCompileInputs.cache
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.csproj.Up2Date
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\refint\JP Surplus.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.pdb
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.genruntimeconfig.cache
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\ref\JP Surplus.dll
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Add.resources
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Edit.resources
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Edit2.resources
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Save2.resources
+C:\Users\1\OneDrive\Documents\JP Surplus\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Properties.Resources.resources
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.exe
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.deps.json
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.runtimeconfig.json
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\JP Surplus.pdb
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Add.resources
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Edit.resources
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Edit2.resources
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Form1.resources
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Properties.Resources.resources
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.Save2.resources
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP_Surplus.View.resources
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.csproj.GenerateResource.cache
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.AssemblyInfo.cs
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.csproj.Up2Date
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\refint\JP Surplus.dll
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.pdb
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\JP Surplus.genruntimeconfig.cache
+C:\Users\1\Downloads\JP Surplus latest copy with design\JP Surplus\obj\Debug\net8.0-windows\ref\JP Surplus.dll
